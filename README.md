@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is John and I am a student of Applied Computer Science on Wroclaw Univercity of Science and Technology.</h2>
+<h2 align="left">Student of Applied Computer Science on Wroclaw Univercity of Science and Technology.</h2>
 
 ###
 

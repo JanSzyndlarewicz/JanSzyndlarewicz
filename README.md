@@ -1,4 +1,4 @@
-<h2 align="left">Student of Applied Computer Science on Wroclaw Univercity of Science and Technology.</h2>
+<h2 align="left">Student of Applied Computer Science on Wroclaw University of Science and Technology.</h2>
 
 ###
 
